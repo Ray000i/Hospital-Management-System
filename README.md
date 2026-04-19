@@ -272,16 +272,3 @@ The Entity-Relationship diagram below shows all entities, their attributes, and 
 The relational schema below shows the physical table structures as implemented in MySQL, including data types, primary keys, foreign keys, indexes, and triggers.
 <img width="852" height="495" alt="image" src="https://github.com/user-attachments/assets/a92e95a7-f0b4-43ef-b4e0-5abf903ab2c1" />
 
-
-## 📌 Project Info
-
-| Field       | Detail                                |
-|-------------|---------------------------------------|
-| Author      | Pradyun Devidas Nimaje                |
-| Type        | DBMS / Full-Stack Web Project         |
-| Database    | MySQL (`Hospital_HMS`)                |
-| Frontend    | HTML + Tailwind CSS v4                |
-| Backend     | Node.js                               |
-| Repo        | [GitHub](https://github.com/Pradyun-Nimaje/Hospital-management-system-main) |
-
----
